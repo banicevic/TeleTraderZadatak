@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeleTraderAssignment", "TeleTraderAssignment\TeleTraderAssignment.csproj", "{6C797132-68A1-40B2-8D82-67B762B68CE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C797132-68A1-40B2-8D82-67B762B68CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C797132-68A1-40B2-8D82-67B762B68CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C797132-68A1-40B2-8D82-67B762B68CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C797132-68A1-40B2-8D82-67B762B68CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55E5F8C3-4880-4AD1-88E1-8F37A1A7ADF6}
+	EndGlobalSection
+EndGlobal
